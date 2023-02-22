@@ -1,0 +1,16 @@
+skills of the course: 
+ 1: Basic theory SDLC, STLC,
+  2: Client-server architecture,
+   3: HTTP,
+    4: API testing with Postman,
+     5: VPN,
+      6: Mobile tetsing,
+       7: ADB,
+        8: Terminal Linux,
+         9: Bash scripting basics,
+     	  10: SQL basics,
+   	   11: Postgres database,
+   	    12: Non-relational database Redis,
+   	     13: Load testing in Jmete",
+   	      14: Scrum development methodology,
+   	       15: Python

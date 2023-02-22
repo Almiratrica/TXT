@@ -1,0 +1,5 @@
+favorite movie: Harry Potter,
+ favorite series: Castle,
+  favorite food: Fride potatoes,
+   favorite season: Spring,
+    country to visit: UK
