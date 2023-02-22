@@ -1,1 +1,8 @@
-
+bug_report:
+ column 1: ID,
+  column 2: Title,
+   column 3: Inputs,
+    column 4: Steps,
+     column 5: ER,
+      column 6: AR,
+       column 7: Comment
