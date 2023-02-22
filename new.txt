@@ -1,0 +1,6 @@
+lastname: Gromyko,
+ name: Ekaterina,
+  middle name: Yuryevna,
+   age: 26,
+    number of pets: 1,
+     desired salary: 1.000 usd
